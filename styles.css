@@ -1,0 +1,13 @@
+h1 {
+    color:red;
+    border: 1px solid black;
+    padding: 30px;
+    margin: 100px;
+}
+#intro {
+    color:green;
+
+}
+.main{
+    font-size: 40px;
+}
